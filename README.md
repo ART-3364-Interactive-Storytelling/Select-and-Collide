@@ -48,7 +48,11 @@ This tutorial guides you through building a simple Unity 6 (2D) project to use U
 
 Create a `Scripts` folder and add these three scripts.
 
+You can find explanations of each script at:
+[ColorMixer.md](https://github.com/ART-3364-Interactive-Storytelling/Select-and-Collide/blob/main/ColorMixer.md)
+
 ### `ColorMixer.cs` (attach to WhiteSquare)
+
 
 ```csharp
 using UnityEngine;
