@@ -50,6 +50,8 @@ Create a `Scripts` folder and add these three scripts.
 
 You can find explanations of each script at:
 [ColorMixer.md](https://github.com/ART-3364-Interactive-Storytelling/Select-and-Collide/blob/main/ColorMixer.md)
+[PaletteSquare.md](https://github.com/ART-3364-Interactive-Storytelling/Select-and-Collide/blob/main/PaletteSquare.md)
+[SceneBinder.md](https://github.com/ART-3364-Interactive-Storytelling/Select-and-Collide/blob/main/SceneBinder.md)
 
 ### `ColorMixer.cs` (attach to WhiteSquare)
 
