@@ -233,7 +233,7 @@ public class SceneBinder : MonoBehaviour
     }
 }
 ```
-### Hoooking up the Scripts
+### Hooking up the Scripts
 1. Drag the ColorMixer script onto the WhiteSquare.
 2. Create GameManager (empty GameObject).
 3. Drag the SceneBinder script onto the GameManager.
