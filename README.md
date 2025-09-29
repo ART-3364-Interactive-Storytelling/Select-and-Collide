@@ -1,6 +1,9 @@
 # Select-and-Collide
 
 # Unity 6 Tutorial: Color Mixing with Squares
+<img width="480" height="481" alt="Screenshot 2025-09-28 at 7 49 41 PM" src="https://github.com/user-attachments/assets/6ce3c86c-ebd4-4d4f-9137-30fd4f0a243b" />
+
+
 
 This tutorial guides you through building a simple Unity 6 (2D) project to use Unity’s object system, scripts, and color blending.
 
@@ -9,10 +12,9 @@ This tutorial guides you through building a simple Unity 6 (2D) project to use U
 
 - One **white square** (the “canvas”).
 - Eight **colored squares** (the “palette”).
-- When a palette square is clicked, it follows the mouse.
-- Clicking again:
-  - If over the white square the square’s color is **added** to the white square.
-  - If not over the palette square snaps back.
+- Click and drag colored squares.
+  - If the mouse is relased over the white square the square’s color is **added** to the white square.
+  - If not over the palette square the color square snaps back.
 
 ---
 
