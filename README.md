@@ -5,7 +5,7 @@
 
 
 
-This tutorial guides you through building a simple Unity 6 (2D) project to use Unity’s object system, scripts, and color blending.
+This tutorial guides you through building a simple Unity 6 (2D) project to use Unity’s object system, scripts, moving items by dragging them, and color blending.
 
 
 ## Goal
